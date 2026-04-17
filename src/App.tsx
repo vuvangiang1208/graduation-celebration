@@ -148,7 +148,7 @@ export default function App() {
           >
             <div className="editorial-label flex items-center gap-3">
               <span className="w-8 h-[1px] bg-editorial-gold"></span>
-              Special Milestone • 2024
+              Special Milestone • 2026
             </div>
             <h1 className="editorial-h1">
               <span className="block text-editorial-gold italic font-decorative text-5xl mb-2">Chúc Mừng</span>
@@ -164,13 +164,13 @@ export default function App() {
                 <h3 className="font-decorative text-5xl text-editorial-pink-dark mb-8">Gửi Khánh Chi,</h3>
                 <div className="font-serif text-2xl text-editorial-text/90 space-y-6 leading-relaxed italic">
                   <p>
-                    Chúc mừng em đã tốt nghiệp! 
+                    Chúc mừng Khánh Chi đã tốt nghiệp! 
                   </p>
                   <p>
                     Hãy cứ làm thật tốt ở hiện tại và không ngừng cố gắng cho những mục tiêu rực rỡ ở tương lai nhé.
                   </p>
                   <p>
-                    Anh luôn ở đây ủng hộ và đồng hành cùng em.
+                    Anh luôn ở đây ủng hộ và đồng hành cùng Khánh Chi.
                   </p>
                   <div className="pt-6 flex items-center gap-4">
                     <span className="w-12 h-[1px] bg-editorial-pink-dark/30"></span>
@@ -243,7 +243,7 @@ export default function App() {
               ♥
             </motion.div>
             <div className="font-handwritten text-3xl text-editorial-pink-accent">
-              Gửi ngàn lời chúc tốt đẹp nhất đến em.
+              Gửi ngàn lời chúc tốt đẹp nhất đến em Khánh Chi của anh.
             </div>
           </div>
         </div>
@@ -257,7 +257,7 @@ export default function App() {
           <Star size={18} fill="currentColor" />
         </div>
         <p className="text-editorial-pink-dark/50 text-[10px] font-editorial tracking-[3px] uppercase">
-          © 2024 Graduation Celebration • Happy Graduation Chi!
+          © 2026 Graduation Celebration • Happy Graduation Khánh Chi!
         </p>
       </footer>
     </div>
