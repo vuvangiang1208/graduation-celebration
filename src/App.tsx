@@ -253,7 +253,7 @@ export default function App() {
       <footer className="py-16 px-4 text-center border-t border-editorial-gold/10 bg-white/80 backdrop-blur-md relative z-10">
         <div className="flex items-center justify-center gap-4 text-editorial-gold mb-6">
           <Star size={18} fill="currentColor" />
-          <span className="font-editorial text-[11px] uppercase tracking-[5px] opacity-80">Special Milestone • 2024</span>
+          <span className="font-editorial text-[11px] uppercase tracking-[5px] opacity-80">Special Milestone • 2026</span>
           <Star size={18} fill="currentColor" />
         </div>
         <p className="text-editorial-pink-dark/50 text-[10px] font-editorial tracking-[3px] uppercase">
